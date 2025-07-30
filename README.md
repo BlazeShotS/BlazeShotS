@@ -52,6 +52,18 @@ If you're looking for someone committed, proactive, constantly curious, and with
 
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logoColor=white)
 
+#### 🔐 Security
+
+![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![BCrypt](https://img.shields.io/badge/BCrypt-563D7C?style=for-the-badge&logoColor=white)
+
+#### 🧪 Testing
+
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=java&logoColor=white)
+![Jasmine](https://img.shields.io/badge/Jasmine-8A4182?style=for-the-badge&logo=jasmine&logoColor=white)
+![Karma](https://img.shields.io/badge/Karma-34A853?style=for-the-badge&logo=karma&logoColor=white)
+
 
 ## 📈 My GitHub Stats and Activity
 
