@@ -1,7 +1,4 @@
 <h1 align="center"><b>Hi , I'm Abel Durand </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-
-
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
 
@@ -12,8 +9,6 @@ Hello, my name is Abel. I really like technology. Since I got into the technolog
 If you're looking for someone committed, proactive, constantly curious, and with a positive attitude toward learning and continuous improvement, I'd be happy to get in touch with you. I enjoy taking on challenges, providing solutions, and working as a team to achieve great results.
 
 <br>
-
-
 <br>
 
 ## 🛠️ My Skills
@@ -58,14 +53,15 @@ If you're looking for someone committed, proactive, constantly curious, and with
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logoColor=white)
 
 
+## 📈 My GitHub Stats and Activity
 
-<div style="text-align: right;">
-  <img height="150" src="https://media1.tenor.com/m/_DOBjnGspYAAAAAC/code-coding.gif" />
-</div>
+### 💻 Profile Stats
 
+<img alt="BlazeShotS's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=BlazeShotS&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/><img alt="BlazeShotS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlazeShotS&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866" height="192px"/>
 
-  
-<hr>
+### 🔥 Streak Stats
+
+![BlazeShotS's GitHub stats](https://github-readme-streak-stats.herokuapp.com/?user=BlazeShotS&theme=tokyonight)
 
 ## 🛠️ Trophies
 
@@ -75,12 +71,7 @@ If you're looking for someone committed, proactive, constantly curious, and with
   </a>
 </div>
 
-
-
-
-
 <br>
-
 
 ## 🛠️ Media
 
@@ -95,8 +86,5 @@ If you're looking for someone committed, proactive, constantly curious, and with
     <img src="https://img.icons8.com/color/96/000000/gmail-new.png" alt="Gmail" width="70" height="70"/>
   </a>
 </p>
-
-
-
 
 
