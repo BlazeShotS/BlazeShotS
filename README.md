@@ -49,7 +49,6 @@ If you're looking for someone committed, proactive, constantly curious, and with
 ![Draw.io](https://img.shields.io/badge/Draw.io-%23F24E1E.svg?style=for-the-badge&logo=draw.io&logoColor=white)
 ![Balsamiq](https://img.shields.io/badge/Balsamiq-%23F24E1E.svg?style=for-the-badge&logoColor=white)
 ![Excalidraw](https://img.shields.io/badge/Excalidraw-0080ff?style=for-the-badge&logoColor=white)
-
 ![XAMPP](https://img.shields.io/badge/XAMPP-%23FB7A24.svg?style=for-the-badge&logoColor=white)
 
 #### 🔐 Security
