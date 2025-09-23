@@ -4,9 +4,7 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 300px></picture>
 
-Hello, my name is Abel. I really like technology. Since I got into the technology industry, I knew it was the ideal sector for me. That's why I consider myself self-taught: I like to learn new things and continue learning, mainly because I do what I do with passion. I also like to stay abreast of new technologies as they emerge. I love opportunities to continue growing professionally and learning from others.
 
-If you're looking for someone committed, proactive, constantly curious, and with a positive attitude toward learning and continuous improvement, I'd be happy to get in touch with you. I enjoy taking on challenges, providing solutions, and working as a team to achieve great results.
 
 <br>
 
